@@ -1,0 +1,14 @@
+# Godot
+.import/
+*.tmp
+*.translation
+
+# OS / editeurs
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
+
+# Builds
+*.zip

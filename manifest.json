@@ -1,0 +1,27 @@
+﻿{
+    "name": "PackAPunch",
+    "namespace": "Tinkiluz",
+    "version_number": "0.3.0",
+    "description": "Pack-a-Punch : trouve la machine dans une caisse, repare-la avec des quetes, puis ameliore une arme en pleine manche.",
+    "website_url": "",
+    "dependencies": [],
+    "extra": {
+        "godot": {
+            "incompatibilities": [],
+            "authors": [
+                "Tinkiluz"
+            ],
+            "compatible_mod_loader_version": [
+                "6.2.0"
+            ],
+            "compatible_game_version": [
+                "1.2.0.1"
+            ],
+            "config_defaults": {},
+            "tags": [
+                "weapons",
+                "gameplay"
+            ]
+        }
+    }
+}
